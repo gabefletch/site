@@ -1,2 +1,2 @@
 # site
-Deployment and code for my portfolio site.
+Deployment for my portfolio site. (See index.html)
