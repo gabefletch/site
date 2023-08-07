@@ -6,3 +6,4 @@
 - Adds Eagle Scout and Xerox Award section below the "Gabe Fletcher" main header and "Sound Designer and Web Developer Attending Shenandoah Univ." and above the "Sound Designer/Web Developer horizontal animating element.
 - Adjusts all section margins site-wide to be less for better user experience.
 - Adjusts "Submit" text on Contact form to the same bold weight used on all other buttons for continuity.
+- General bug fixes and stability improvements.
