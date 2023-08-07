@@ -1,5 +1,5 @@
 # The Gabe Fletcher Landing Page
-HTML, JS, and CSS code for my landing page, found at [dub.sh/gabe](https://dub.sh/gabe).<br>
+HTML and CSS code for my landing page, found at [dub.sh/gabe](https://dub.sh/gabe).<br>
 Hosted via Webflow CMS.<br>
 
 Current Version: v4.0 (August 6, 2023)<br>
