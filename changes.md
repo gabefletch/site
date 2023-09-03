@@ -5,6 +5,7 @@
 2 September 2023<br>
 - Alters link targeting on the "View My Resume" button to use the shortlink "dub.sh/gabe-sound-resume" instead of a raw Google Drive share link
 - Updates styling and accuracy of the equipment usage list on the resume
+- Updates the footer of the site to reflect the new site version "v4.0.1 (2 September 2023)"
 
 ## v4.0
 6 August 2023<br>
