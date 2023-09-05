@@ -4,9 +4,10 @@
 ## v4.0.2<br>
 5 September 2023<br>
 - Alters margins and padding across multiple site elements and breakpoints to ensure proper rendering positioning across multiple device types, screen sizes, and aspect ratios
+- Alters footer text to be larger on extra large desktop breakpoints for better user experience
 - Updates the footer of the site to reflect the new site version "v4.0.2 (5 September 2023)"
 - Changes header size of the "note that..." text string on this changelog to be one header version smaller than it was previously to be less prominent and more space efficient
-- Cleans up empty lines
+- Cleans up empty lines in this changelog
 
 ## v4.0.1
 2 September 2023<br>
