@@ -1,6 +1,13 @@
 # Changes to The Gabe Fletcher Landing Page
 ### Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting. 
 
+## v4.0.2<br>
+5 September 2023<br>
+- Alters margins and padding across multiple site elements and breakpoints to ensure proper rendering positioning across multiple device types, screen sizes, and aspect ratios
+- Updates the footer of the site to reflect the new site version "v4.0.2 (5 September 2023)"
+- Changes header size of the "note that..." text string on this changelog to be one header version smaller than it was previously to be less prominent and more space efficient
+- Cleans up empty lines
+
 ## v4.0.1
 2 September 2023<br>
 - Alters link targeting on the "View My Resume" button to use the shortlink "dub.sh/gabe-sound-resume" instead of a raw Google Drive share link
