@@ -1,5 +1,5 @@
 # Changes to The Gabe Fletcher Landing Page
-### Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting. 
+Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting. 
 
 ## v4.0.3<br>
 8 September 2023<br>
