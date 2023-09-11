@@ -4,6 +4,7 @@ Hosted via [Webflow CMS](https://webflow.com/cms) and utilizing [Slick CSS](http
 
 Current Version: v4.0.3 (8 September 2023)<br>
 [View Changes Here](https://github.com/gabefletch/site/blob/main/changes.md)<br>
+
 There may be a significant delay between changes on the live site and files being updated accordingly in this repository.<br>
 
 ### Screenshots
