@@ -1,6 +1,11 @@
 # Changes to The Gabe Fletcher Landing Page
 Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting. 
 
+## v4.0.3.1<br>
+18 September 2023<br>
+- Removes the left over "/style" slug page from deployment.
+- Updates the footer of the site to reflect the new site version "v4.0.3.1 (18 September 2023)"
+
 ## v4.0.3<br>
 8 September 2023<br>
 - Corrects sizing, padding, and margin errors on the mobile portrait breakpoint caused by the previous update
