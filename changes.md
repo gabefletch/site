@@ -3,7 +3,8 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 ## v4.0.3.1<br>
 18 September 2023<br>
-- Removes the left over "/style" slug page from deployment.
+- Removes the left over `/style` slug page from deployment.
+- Alters the footer "GitHub" link to direct to the site repository. The GitHub link in the "About" section will still direct to "github.com/gabefletch" as the footer link did previously.
 - Updates the footer of the site to reflect the new site version "v4.0.3.1 (18 September 2023)"
 
 ## v4.0.3<br>
