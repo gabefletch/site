@@ -1,6 +1,16 @@
 # Changes to The Gabe Fletcher Landing Page
 Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting. 
 
+## v4.0.3.2
+19 September 2023<br>
+- Alters navigation heading across all breakpoints to have a solid matching dark blue background color so that navigation header elements do not conflict with other elements on the rest of the page.
+- Alters navigation heading on the mobile breakpoint to match changes done to the desktop and above breakpoints.
+- Alters the mobile navigation selection menu to be a solid matching dark blue background rather than a blur filter of the rest of the page.
+- Adds an "Experience" navigation option across all breakpoints leading to "dub.sh/gabe-sound-resume"
+- Alters the button text in the "Skills" section from "View My Resume" to "View My Experience." Button link target was not changed.
+- Adds "Experience" page to the backend with the `/resume` slug. Page is currently unreachable unless entered directly.
+- v4.1-b will compliment this update with a finished "Experience" page resembling the currently accessible resume document but as a page on the site instead with more visual appeal and images. The resume document will still be acessible from this new page. 
+
 ## v4.0.3.1<br>
 18 September 2023<br>
 - Removes the left over `/style` slug page from deployment.
