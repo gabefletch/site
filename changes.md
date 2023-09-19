@@ -1,5 +1,7 @@
 # Changes to The Gabe Fletcher Landing Page
-Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting. 
+Note that this changelog begins with v4.0 and no data before this sequential version exists as v4.0 is the first version to be hosted via Webflow CMS to allow code exporting.<br>
+
+[Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
 ## v4.0.3.2
 19 September 2023<br>
@@ -43,3 +45,5 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 - Adjusts all section margins site-wide to be less for better user experience.
 - Adjusts "Submit" text on Contact form to the same bold weight used on all other buttons for continuity.
 - General bug fixes and stability improvements.
+
+[Jump to Newest Changes](https://github.com/gabefletch/site/blob/main/changes.md)
