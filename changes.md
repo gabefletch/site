@@ -46,4 +46,4 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 - Adjusts "Submit" text on Contact form to the same bold weight used on all other buttons for continuity.
 - General bug fixes and stability improvements.
 
-[Jump to Newest Changes](https://github.com/gabefletch/site/main/changes.md#changes-to-the-gabe-fletcher-landing-page)
+[Jump to Newest Changes](https://github.com/gabefletch/site/blob/main/changes.md#changes-to-the-gabe-fletcher-landing-page)
