@@ -3,7 +3,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
-##v4.0.3.3
+## v4.0.3.3
 9 October 2023<br>
 - Fixes "Experience" link on mobile navigation menu linking to the unfinished Experience page on the site rather than the resume document on Google Drive (intended functionality).
 - Updates the footer of the site to reflect the new site version "v4.0.3.3" (9 October 2023)"
