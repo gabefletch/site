@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+##v4.0.3.3
+9 October 2023<br>
+- Fixes "Experience" link on mobile navigation menu linking to the unfinished Experience page on the site rather than the resume document on Google Drive (intended functionality).
+- Updates the footer of the site to reflect the new site version "v4.0.3.3" (9 October 2023)"
+
 ## v4.0.3.2
 19 September 2023<br>
 - Alters navigation heading across all breakpoints to have a solid matching dark blue background color so that navigation header elements do not conflict with other elements on the rest of the page.
@@ -11,7 +16,8 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 - Adds an "Experience" navigation option across all breakpoints leading to "dub.sh/gabe-sound-resume"
 - Alters the button text in the "Skills" section from "View My Resume" to "View My Experience." Button link target was not changed.
 - Adds "Experience" page to the backend with the `/resume` slug. Page is currently unreachable unless entered directly.
-- v4.1 will compliment this update with a finished "Experience" page resembling the currently accessible resume document but as a page on the site instead with more visual appeal and images. The resume document will still be acessible from this new page. 
+- v4.1 will compliment this update with a finished "Experience" page resembling the currently accessible resume document but as a page on the site instead with more visual appeal and images. The resume document will still be acessible from this new page.
+- Updates the footer of the site to reflect the new site version "v4.0.3.2 (19 September 2023)"
 
 ## v4.0.3.1<br>
 18 September 2023<br>
