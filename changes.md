@@ -3,11 +3,6 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
-## v5.0
-16 November 2023<br>
-- Completely redesigns the site UI to match the new design language for the Optimal project.
-- Simplifies design elements.
-
 ## v4.1
 26 October 2023<br>
 - Adds "#AltCompatibility for Threads" to the "Web Projects" section.
