@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.0
+24 November 2023<br>
+- Simplifies, redesigns, and migrates the site to Framer.
+- https://gabefletch-old.webflow.io can be used to access the site versions prior to v5.0
+
 ## v4.1
 26 October 2023<br>
 - Adds "#AltCompatibility for Threads" to the "Web Projects" section.
