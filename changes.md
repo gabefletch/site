@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.0.1
+26 November 2023<br>
+- Revises the description of the DeltaBlock section to properly style NextDNS as "NextDNS" instead of "Next DNS."
+- Re-adds the "Screenshots" section to the Readme of this repo.
+
 ## v5.0
 24 November 2023<br>
 - Simplifies, redesigns, and migrates the site to Framer.
