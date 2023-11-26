@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.0.2
+26 November 2023<br>
+- Fixes the most recent site version string not appearing across all device rendering schemes.
+
 ## v5.0.1
 26 November 2023<br>
 - Revises the description of the DeltaBlock section to properly style NextDNS as "NextDNS" instead of "Next DNS."
