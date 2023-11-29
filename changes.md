@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.0.3.1
+29 November 2023<br>
+- Slightly alters the text underneath "Let's Talk" to be more concise.
+
 ## v5.0.3
 27 November 2023<br>
 - Adds a styled 404 page instead of Framer's default 404 page.
