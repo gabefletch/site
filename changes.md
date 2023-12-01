@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.0.3.2
+30 November 2023<br>
+- Fixes an issue where "Visit" buttons under the Web Projects section failed to link anywhere on larger desktop displays.
+
 ## v5.0.3.1
 29 November 2023<br>
 - Slightly alters the text underneath "Let's Talk" to be more concise.
