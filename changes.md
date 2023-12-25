@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.0.4
+24 December 2023
+- Adds an "Upcoming Work / Appearances" section between the "About" and "Web Projects" sections. 
+
 ## v5.0.3.4
 11 December 2023
 - Updates the Optimal image card to match with the new upcoming Optimal v11 launch branding.
