@@ -2,14 +2,14 @@
 HTML and CSS code for my landing page, found at [dub.sh/gabe](https://dub.sh/gabe).<br>
 Hosted, designed, and pushed with [Framer](https://framer.com).
 
-Current Live Version: `v5.0.4` • [View Changes Here](https://github.com/gabefletch/site/blob/main/changes.md)<br>
+Current Live Version: `v5.1` • [View Changes Here](https://github.com/gabefletch/site/blob/main/changes.md)<br>
 
 Files in this repo:<br>
 [home.html](https://github.com/gabefletch/site/blob/main/home.html) from `v5.0.1`.
 
 There may be a significant delay between changes on the live site and files being updated accordingly in this repository.<br>
 While Framer does not allow for exporting its React content, HTML code is exported from the page source using Visual Studio Code.<br>
-# Screenshots
+# Screenshots (Outdated)
 ### Intro Section
 <img width="600" alt="Intro Section" src="https://github.com/gabefletch/site/assets/38300939/bc1f6fa8-72fb-476f-b6c4-cff999c2efc6"><br>
 ### Nav Menu
