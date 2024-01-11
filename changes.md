@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.1
+11 January 2024
+- Alters site color scheming to match new social branding
+- Slightly alters some text to be more concise
 ## v5.0.4
 24 December 2023
 - Adds an "Upcoming Work / Appearances" section between the "About" and "Web Projects" sections. 
