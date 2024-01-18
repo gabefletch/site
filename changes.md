@@ -3,6 +3,16 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.2
+18 January 2024
+- Further alters site color scheming to an all-blue style to better match new social branding and avoid eye-strain possible by the color scheme present in v5.1
+- Alters spacing of the side menu to be more concise
+- Alters some text elements to bold text for better user experience
+- Alters all button colors to be consistent
+- Alters all body text to be solid white rather than light grey
+- Adjusts width of the "+" navbar icon to be thicker for more consistency with other buttons
+- Implements a "+" to "x" animation for the navbar icon when opening/closing the navbar
+- Backend optimizations
 ## v5.1
 11 January 2024
 - Alters site color scheming to match new social branding
