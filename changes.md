@@ -6,6 +6,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 ## v5.3
 29 February 2024
 - Changes site-wide color background to a darker blue for better accent color readability
+- Adds the Music section and the Visions of Space EP section
 - Changes button styling to outline rather than solid
 - Adds gaussian blur to nav bar icon while site elements are rendered behind it
 - Adds contextual icons to each section via SF Symbols
