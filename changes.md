@@ -3,6 +3,16 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.3
+29 February 2024
+- Changes site-wide color background to a darker blue for better accent color readability
+- Changes button styling to outline rather than solid
+- Adds gaussian blur to nav bar icon while site elements are rendered behind it
+- Adds contextual icons to each section via SF Symbols
+- Changes site-wide font to SF Pro Display
+- Adds the same contextual icons to the nav menu
+- Adds the Music section to the nav menu
+- Reformats section slug naming to be more consistent with their actual naming on the site
 ## v5.2
 18 January 2024
 - Further alters site color scheming to an all-blue style to better match new social branding and avoid eye-strain possible by the color scheme present in v5.1
