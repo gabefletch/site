@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.3.1
+29 February 2024
+- Alters squared image resolutions across the site to proper matched square resolution
+- Alters the Visions of Space EP image to have a border on the image file rather than rendering a border around it via CSS.
 ## v5.3
 29 February 2024
 - Changes site-wide color background to a darker blue for better accent color readability
