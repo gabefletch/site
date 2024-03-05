@@ -9,7 +9,8 @@ Files in this repo:<br>
 
 There may be a significant delay between changes on the live site and files being updated accordingly in this repository.<br>
 While Framer does not allow for exporting its React content, HTML code is exported from the page source using Visual Studio Code.<br>
-# Screenshots (v5.2)
+# Screenshots
+Pictured: `v5.2`
 ### Intro Section
 <img width="600" alt="Intro Section" src="https://github.com/gabefletch/site/assets/38300939/b6a539bf-184f-49d0-8ca5-ad909a4e7579"><br>
 ### Nav Menu
