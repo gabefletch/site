@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.3.2
+15 March 2024
+- Adds Somniate Records section
+- Site is now Framer Basic rather than Framer Mini, allowing more subpages
 ## v5.3.1.1
 5 March 2024
 - Fixes the "Listen Now" button linking to nowhere on certain breakpoints
