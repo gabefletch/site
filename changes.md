@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.4
+27 March 2024
+- Integrates new DeltaBlock branding and site slug "/deltablock"
+- Adds the SGA10e breakpoint to major pages across mutliple slugs for better viewing on narrower mobile devices
 ## v5.3.2
 15 March 2024
 - Adds Somniate Records section
