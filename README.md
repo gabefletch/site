@@ -1,5 +1,5 @@
 # The Gabe Fletcher Landing Page
-HTML and CSS code for my landing page, found at [dub.sh/gabe](https://dub.sh/gabe).<br>
+HTML and CSS code for my landing page, found at [gabefletch.me](https://gabefletch.me).<br>
 Hosted, designed, and pushed with [Framer](https://framer.com).
 
 Current Live Version: `v5.4.1.1` • [View Changes Here](https://github.com/gabefletch/site/blob/main/changes.md)<br>
