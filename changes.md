@@ -3,6 +3,9 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v5.4.1.1
+1 April 2024
+- Fixes the 404 page "Go Back Home" button directing to the "Oops Wrong Domain" placeholder; caused after transition to gabefletch.me from gabe.framer.website
 ## v5.4.1
 28 March 2024
 - Updates width parameters for the SGA10e breakpoint for consistency with width for other elements
