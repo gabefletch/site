@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v6.0
+4 April 2024
+- Complete interface redesign
+- All element ordering and link directivity remains the same
 ## v5.4.1.1
 1 April 2024
 - Fixes the 404 page "Go Back Home" button directing to the "Oops Wrong Domain" placeholder; caused after transition to gabefletch.me from gabe.framer.website
