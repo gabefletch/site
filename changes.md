@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v6.0.1
+16 April 2024
+- Site will no longer have animated elements if the user visiting has enabled reduced motion on their browser or OS
+- Favicon updated
+- Apple Touch Icon and Google Search Icons updated
 ## v6.0
 4 April 2024
 - Complete interface redesign
