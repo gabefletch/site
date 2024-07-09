@@ -3,6 +3,16 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v6.1.1
+9 July 2024
+- Fixes changelog entry for v6.1 not being pushed on GitHub
+- Fixes some spelling errors present on `/deltablock`
+- Fixes the "a project by gabe fletcher" link on `/deltablock` directing to a deprecated version of the Gabe Fletcher home page
+## v6.1
+6 July 2024
+- Slightly alters interface styling
+- Removes all references to Optimal on home page
+- Replaces Optimal with Instagram content section under the 'Projects' section
 ## v6.0.2
 19 April 2024
 - Pushes SF Pro Display and SF Symbols to v5 across all pages and subpages
