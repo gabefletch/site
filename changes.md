@@ -3,6 +3,9 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v6.1.2
+11 July 2024
+- Fixes some element radii not being the same value across all breakpoints
 ## v6.1.1
 9 July 2024
 - Fixes changelog entry for v6.1 not being pushed on GitHub
