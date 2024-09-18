@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.1
+18 September 2024
+- Fixes several button links on the mobile breakpoint of the `/deltablock` page directing to incorrect locations
+- Attempts to fix an issue where using the hamburger menu on mobile would close the menu without scrolling to a section when tapping a menu item
+- Adds 25px of padding to the bottom of the footer on the mobile breakpoint
 ## v7.1
 17 September 2024
 - Replaces "Projects" section with an updated version of the section from v6.1.2
