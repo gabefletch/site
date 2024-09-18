@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.2
+18 September 2024
+- Fixes an issue where tapping "Back" on the mobile breakpoint of `/deltablock` would direct to the GF landing page instead of the DB home
+- Fixes an issue where tapping "Contact" on the mobile breakpoint of the GF landing page in the hamburger menu would open a new tab to the Contact section rather than closing the menu and smooth-scrolling to the section
+- Attempts to fix an issue where some text effects may rarely have overlap issues near the edges of their rendering frames
 ## v7.1.1
 18 September 2024
 - Fixes several button links on the mobile breakpoint of the `/deltablock` page directing to incorrect locations
