@@ -3,6 +3,14 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.3
+18 September 2024
+- Fixes the "Projects" section header being center justified on the mobile breakpoint when this was inconsistent
+- Fixes an issue where the "Projects" button in the navbar would not smooth-scroll to the "Projects" section
+- Adjusts some button styling from elements carried over from v6 to match the v7 styling
+- Adds 26px of padding to all mobile breakpoint footers not adjusted by v7.1.1:
+  - `/deltablock`, `/deltablock/install`, and `/somniate`
+- Fixes an issue where footer text on the mobile breakpoint of `/somniate` was not properly centered
 ## v7.1.2
 18 September 2024
 - Fixes an issue where tapping "Back" on the mobile breakpoint of `/deltablock` would direct to the GF landing page instead of the DB home
@@ -12,7 +20,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 18 September 2024
 - Fixes several button links on the mobile breakpoint of the `/deltablock` page directing to incorrect locations
 - Attempts to fix an issue where using the hamburger menu on mobile would close the menu without scrolling to a section when tapping a menu item
-- Adds 25px of padding to the bottom of the footer on the mobile breakpoint
+- Adds 26px of padding to the bottom of the footer on the mobile breakpoint
 ## v7.1
 17 September 2024
 - Replaces "Projects" section with an updated version of the section from v6.1.2
