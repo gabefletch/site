@@ -5,7 +5,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 ## v7.0
 17 September 2024
-- Introduces a complete sitewide redesign with unified UI across all pages and subpages.
+- Introduces a complete sitewide redesign with unified UI across all pages and subpages based on Subscribfy UI
 ## v6.1.2
 11 July 2024
 - Fixes some element radii not being the same value across all breakpoints
