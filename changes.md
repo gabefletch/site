@@ -3,6 +3,12 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.5
+19 September 2024
+- Adds redesigned FAQ accordion section for `/deltablock` that does not rely on a CMS collection for functionality
+- Adds some additional questions to the FAQ section of `/deltablock`
+- Adds additional scroll animations to the FAQ section of `/deltablock` for consistency with other page elements
+- Adjusts `/deltablock` to reflect the release of DeltaBlock v2.4
 ## v7.1.4
 18 September 2024
 - Adjusts the GitHub button on the GFLP to direct straight to this changelog page instead of the top of the repository
