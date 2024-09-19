@@ -9,6 +9,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 - Adds some additional questions to the FAQ section of `/deltablock`
 - Adds additional scroll animations to the FAQ section of `/deltablock` for consistency with other page elements
 - Adjusts `/deltablock` to reflect the release of DeltaBlock v2.4
+- Obscures Optimal v11 related page slugs to prevent user access during development phase
 ## v7.1.4
 18 September 2024
 - Adjusts the GitHub button on the GFLP to direct straight to this changelog page instead of the top of the repository
