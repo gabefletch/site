@@ -3,6 +3,9 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.4
+18 September 2024
+- Fixes an issue where clicking "Get Started" on the desktop breakpoint of `/deltablock` opens the `/deltablock/install` page in a new tab instead of the same tab
 ## v7.1.3
 18 September 2024
 - Fixes the "Projects" section header being center justified on the mobile breakpoint when this was inconsistent
