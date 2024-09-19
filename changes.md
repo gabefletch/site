@@ -7,6 +7,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 18 September 2024
 - Adjusts the GitHub button on the GFLP to direct straight to this changelog page instead of the top of the repository
 - Fixes an issue where clicking "Get Started" on the desktop breakpoint of `/deltablock` opens the `/deltablock/install` page in a new tab instead of the same tab
+- Fixes an issue where the `/deltablock/install` page showed an incorrect Tab Title
 ## v7.1.3
 18 September 2024
 - Fixes the "Projects" section header being center justified on the mobile breakpoint when this was inconsistent
