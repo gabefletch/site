@@ -7,8 +7,7 @@ Current Live Version: `v7.1.4` • [View Changes Here](https://github.com/gabefl
 Files in this repo:<br>
 [home.html](https://github.com/gabefletch/site/blob/main/home.html) from `v6.0`.
 
-There may be a significant delay between changes on the live site and files being updated accordingly in this repository.<br>
-While Framer does not allow for exporting its React content, HTML code is exported from the page source via Visual Studio Code.<br>
+There may be a significant delay between changes on the live site and files being updated accordingly in this repository.  While Framer does not allow for exporting its React content, HTML code is exported from the page source via Visual Studio Code.<br>
 # Screenshots
 Pictured: `v6.0`<br>
 <img width="600" src="https://github.com/gabefletch/site/assets/38300939/d7228619-1c4f-43b1-97cc-d00fe114143c"><br>
