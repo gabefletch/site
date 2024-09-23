@@ -8,9 +8,9 @@ Use the file viewer above to see HTML and CSS for the site.
 
 There may be a significant delay between changes on the live site and files being updated accordingly in this repository.  While Framer does not allow for exporting its React content, HTML code is exported from the page source via Visual Studio Code.<br>
 # Screenshots
-Pictured: `v6.0`<br>
-<img width="600" src="https://github.com/gabefletch/site/assets/38300939/d7228619-1c4f-43b1-97cc-d00fe114143c"><br>
+Pictured: `v7.1.5.1`<br>
 
-<img width="600" src="https://github.com/gabefletch/site/assets/38300939/d00687bf-4918-4b91-8195-673bb71c39c6"><br>
-
-<img width="600" src="https://github.com/gabefletch/site/assets/38300939/2008b4d1-ad20-4c5e-a4ac-6511ba72f445"><br>
+<img width="600" src="https://github.com/user-attachments/assets/91ad7b27-fc85-4431-9994-5c5378bcf9d2"><br>
+<img width="600" src="https://github.com/user-attachments/assets/0cd243b0-3219-4902-a69d-2b58241e3972"><br>
+<img width="600" src="https://github.com/user-attachments/assets/65d47e62-42fc-4bfd-80dd-bc517209db6b"><br>
+<img width="600" src="https://github.com/user-attachments/assets/89548150-29ed-4b5e-b3f4-808e6c242f30"><br>  
