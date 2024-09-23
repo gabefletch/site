@@ -3,6 +3,9 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.5.1
+22 September 2024
+- Fixes some non-major backend issues with link directing
 ## v7.1.5
 19 September 2024
 - Adds redesigned FAQ accordion section for `/deltablock` that does not rely on a CMS collection for functionality
