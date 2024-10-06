@@ -3,6 +3,12 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.6
+6 October 2024
+- Re-adds the `/releases` page to `/somniate`
+- Adds `/releases/self` and `/releases/vos-deluxe` pages with album art and links to streaming services
+  - Adding in-line playback to these pages is planned in the future; a solution for hosting and/or fetching tracks with a streamable URL needs to be found since uploading is restricted by having a Framer Pro plan
+- Fixes an issue where the version string displayed in `/deltablock/install` did not match `/deltablock`
 ## v7.1.5.1
 22 September 2024
 - Fixes some non-major backend issues with link directing
