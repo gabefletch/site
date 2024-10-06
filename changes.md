@@ -3,6 +3,9 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.6.1
+6 October 2024
+- Fixes an issue on `/somniate/releases` where the "Listen" button was layered above the top nav bar, causing unintended overlapping when scrolling, navbar Z position is now set to 2 rather than 1
 ## v7.1.6
 6 October 2024
 - Re-adds the `/releases` page to `/somniate`
