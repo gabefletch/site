@@ -12,6 +12,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 - Adjusts some image rendering effects to be less distracting
 - Adjusts the spacing of the "Projects" section on the mobile breakpoint to be more consistent with site-wide element spacing
 - Implements more Z axes layers (up to 5) to assist with the new text cycle implementation
+- Adjusts the hamburger menu button on the mobile breakpoint to have a bolder icon for consistency with site-wide button design
 ## v7.1.6.1
 6 October 2024
 - Fixes an issue on `/somniate/releases` where the "Listen" button was layered above the top nav bar, causing unintended overlapping when scrolling, navbar Z position is now set to 2 rather than 1
