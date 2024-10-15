@@ -3,6 +3,15 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.7
+15 October 2024
+- Implements a redesigned version of the "Gabe Fletcher is..." text cycle animation to fix issues where snapping back to the beginning of the animation cycle would be noticable when viewing on certain browsers/devices
+- Updates the animation styling of the text cycle to take longer between text strings (now 2s instead of 1.5s)
+- Adds more text strings to the text cycle
+- Significantly reduces animations present when scrolling to be less distracting
+- Adjusts some image rendering effects to be less distracting
+- Adjusts the spacing of the "Projects" section on the mobile breakpoint to be more consistent with site-wide element spacing
+- Implements more Z axes layers (up to 5) to assist with the new text cycle implementation
 ## v7.1.6.1
 6 October 2024
 - Fixes an issue on `/somniate/releases` where the "Listen" button was layered above the top nav bar, causing unintended overlapping when scrolling, navbar Z position is now set to 2 rather than 1
@@ -58,7 +67,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 9 July 2024
 - Fixes changelog entry for v6.1 not being pushed on GitHub
 - Fixes some spelling errors present on `/deltablock`
-- Fixes the "a project by gabe fletcher" link on `/deltablock` directing to a deprecated version of the Gabe Fletcher home page
+- Fixes the "a project by Gabe Fletcher" link on `/deltablock` directing to a deprecated version of the Gabe Fletcher home page
 ## v6.1
 6 July 2024
 - Slightly alters interface styling
