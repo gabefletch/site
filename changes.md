@@ -3,6 +3,13 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.1.7.1
+15 October 2024
+- Updates album cover images on the following pages:
+  - `/somniate/releases`
+  - `/somniate/releases/self`
+  - `/somniate/releases/vos-deluxe`
+- Fixes an issue where some Somniate related pages had incorrect tab titles
 ## v7.1.7
 15 October 2024
 - Implements a redesigned version of the "Gabe Fletcher is..." text cycle animation to fix issues where snapping back to the beginning of the animation cycle would be noticable when viewing on certain browsers/devices
