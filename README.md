@@ -2,7 +2,7 @@
 HTML and CSS code for my landing page, found at [gabefletch.me](https://gabefletch.me).<br>
 Hosted, designed, and pushed with [Framer](https://framer.com).
 
-Current Live Version: `v7.1.7.1` • [View Changes Here](https://github.com/gabefletch/site/blob/main/changes.md)<br>
+Current Live Version: `v7.2` • [View Changes Here](https://github.com/gabefletch/site/blob/main/changes.md)<br>
 
 Use the file viewer above to see HTML and CSS for the site.
 
