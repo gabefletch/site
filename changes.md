@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v7.2
+7 November 2024
+- Updates Gabe icon branding and navbar coloration to match
+- Fixes an issue where Deltablock FAQ accordians would render incorrectly on the mobile breakpoint
 ## v7.1.7.1
 15 October 2024
 - Updates album cover images on the following pages:
