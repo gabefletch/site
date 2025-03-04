@@ -3,12 +3,21 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.0.1
+3 March 2025
+- Integrates small cosmetic changes
+
+## v8.0
+1 March 2025
+- Integrates updated interface styling and new Contact interface
+- Migrates site to gabefletcher.net from gabefletch.me (old domain will redirect)
+
 ## v7.3
 11 December 2024
 - Integrates Cloudflare DNS
 - Updates the appearance and images used in the "About" section
 - Updates the "Contact" section to feature a direct "mailto:" email protocol button
-- Integrates the "talk@gabefletch.me" email address, replacing the previous Gmail hosted address
+- Integrates a vanity email address, replacing the previous Gmail hosted address
 
 ## v7.2
 7 November 2024
