@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.0.1.2
+10 April 2025
+- Adds Bandcamp support and buttons on the Somniate portion of the site
+
 ## v8.0.1.1
 9 March 2025
 - Fixes an issue where tapping "Gabe." in the top navigation bar on mobile would have no action, whereas clicking it on desktop directs back to the root domain
