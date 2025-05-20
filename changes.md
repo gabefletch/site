@@ -3,6 +3,10 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.0.1.3
+20 May 2025
+- Adds Back to Pop Podcast card to "Projects" section
+
 ## v8.0.1.2
 10 April 2025
 - Adds Bandcamp support and buttons on the Somniate portion of the site
