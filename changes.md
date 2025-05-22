@@ -3,6 +3,13 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.1
+22 May 2025
+- Changes sitewide typeface from San Francisco Pro Display to IBM Plex Sans (icons are still using SF Symbols)
+- Changes top banner color to pure white
+- Adds a new "/links" page with a list of official links
+- Adds a new "/images" page for image attribution information, accessed via the bottom of the home page, replacing the previous simple attribution text and link
+
 ## v8.0.1.3
 20 May 2025
 - Adds Back to Pop Podcast card to "Projects" section
