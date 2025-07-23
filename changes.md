@@ -3,6 +3,12 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.1.1
+23 July 2025
+- Fixes typeface inconsistencies on certain pages
+- Fixes the "Made in Framer" badge being displayed for a brief period
+- Fixes the top navigation bar on the homepage having a redundant option on desktop for a brief period after migrating backend site data
+
 ## v8.1
 22 May 2025
 - Changes sitewide typeface from San Francisco Pro Display to IBM Plex Sans (icons are still using SF Symbols)
