@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.1.2
+10 August 2025
+- Adds the Utilities page and card to the Projects section
+- Adds the "Arrow" utility
+
 ## v8.1.1
 23 July 2025
 - Fixes typeface inconsistencies on certain pages
