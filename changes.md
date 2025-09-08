@@ -3,6 +3,15 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.1.4
+8 September 2025
+- Fixes the "Message Me" button not functioning properly on certain devices
+- Implements Framer's new Rolldown Bundler system
+
+## v8.1.3
+15 August 2025
+- Backend implementations for future site updates; no front-facing changes made
+
 ## v8.1.2
 10 August 2025
 - Adds the Utilities page and card to the Projects section
