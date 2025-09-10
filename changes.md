@@ -7,6 +7,8 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 10 September 2025
 - Revises "Projects" section
 - Revises "Contact" section
+- Revises "/images" "Image Attribution" page to more accurately define image attribution on the site
+- Retires the "/links" page for the forseeable future
 
 ## v8.1.4
 8 September 2025
