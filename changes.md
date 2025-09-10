@@ -6,6 +6,7 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 ## v8.1.4.1
 10 September 2025
 - Revises "Projects" section
+- Revises "Contact" section
 
 ## v8.1.4
 8 September 2025
