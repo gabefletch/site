@@ -3,6 +3,11 @@ Note that this changelog begins with v4.0 and no data before this sequential ver
 
 [Jump to Oldest Changes](https://github.com/gabefletch/site/blob/main/changes.md#v40)
 
+## v8.5
+14 September 2025
+- Adds new Music section
+- Implements redesigned "/music" page
+
 ## v8.1.4.1
 10 September 2025
 - Revises "Projects" section
